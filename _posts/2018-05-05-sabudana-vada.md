@@ -3,7 +3,7 @@ date: 2018-03-05
 title: Sabudana Vada
 categories:
   - Snacks
-featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
+featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/sabudana_vada.jpg
 recipe:
   servings: 12 pieces
   prep: 4 hours 20 minutes
@@ -33,15 +33,3 @@ recipe:
 ---
 Sabudana Vadas are very tasty when served hot ..for weight watchers it can also be done using a appe pan or paddu pan .smear few drops of oil in the cavities of appe pan and when the pan gets heated put the lemon sized tikkis in each cavity and smear few drops of oil on top also ..after it is cooked on one side now turn the tikkis and cook on the other side also .
 Cook it till the vada’s are crispy and brown don’t overcook it as they might turn hard .it takes around 10 to 15 mins to cook one batch of vadas in appe pan ..don’t cover the Appe pan otherwise the vadas will turn soggy.
-
-![Cake](https://source.unsplash.com/1HPTYLozDGw)
-
-Straight out of the oven.
-
-![Cake](https://source.unsplash.com/WoVGndRTx2o)
-
-You can add extra flavour with berries.
-
-![Cake](https://source.unsplash.com/7JYVKRo7i5Q)
-
-Or a caramel sauce.

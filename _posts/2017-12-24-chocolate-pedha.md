@@ -2,9 +2,7 @@
 date: 2017-12-24
 title: Chocolate Pedha
 categories:
-  - Chocolate
-  - Pedha
-  - MilkPowder
+  - Sweets
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/Choc_pedha_large.JPG
 recipe:
   servings: 7 Pedhas

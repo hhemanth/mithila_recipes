@@ -1,29 +1,20 @@
 ---
-date: 2018-03-05
-title: Palak Paneer
+date: 2018-03-06
+title: Cashew Barfi
 categories:
-  - Sabji
-featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/palak_paneer_size.png
+  - Sweets
+featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/kaju_katli.png
 recipe:
   servings: 60 cookies
   prep: 15 minutes
   cook: 15 minutes
   ingredients_markdown: |-
-    * Spinach or palak - one big bunch 
-    * Paneer - 200 gms
-    * Onion - 2
-    * Tomates -3
-    * Ginger Garlic paste
-    * Cashew nuts -10 to 15 
-    * Green chilly - 2 
-    * Coriander powder - 1 tbsp
-    * Red chilly powder - ½ tbsp 
-    * Turmeric powder -¼ tbsp
-    * Garam masala - 1 tbsp
-    * Curd - 3 tbsp
-    * Salt - according to your taste
-    * Oil - 2 tbsp 
-    * Cream for flavour and also taste 
+    * Cashew nuts(kaju) - 1 cup
+    * Sugar - 3/4th cup
+    * Water - 1/4th cup
+    * Cardamom powder - ½ tsp
+    * Ghee - 1 tbsp
+
 
   directions_markdown: |-
     1. Take a big bunch of spinach separate the leaves from stem and clean it using water with little amount of salt mixed in water as it helps to remove all the dirt from greens.
@@ -39,7 +30,5 @@ recipe:
     11. Now garnish palak paneer with cream on top and serve it hot any indian breads of your choice or even with rice it tastes delicious.
 
 ---
-One of the most famous side dish in india this recipe can be relished with any indian bread of your choice . it is a combination of both health and taste .rich in iron ,calcium ,minerals and proteins it is good food for people of all ages..easy to prepare and very tasty to eat let’s  see what are the ingredients required and how to prepare it. No wonder Spinach(Indian name -palak) was our popeye’s first choice when he requires strength to save olive .
+Popularly known as kaju katli it is a very delicious indian sweet which is made with minimum ingredients .it gets ready with 15 to 20 minutes and tastes delicious . it can made for any festivals, parties ,functions or even on any normal day to satisfy your taste buds .Here i have used 1 tbsp of ghee at the end but this can be skipped to make it a vegan recipe and ther won’t be any change in taste.
 
-
-Delicious!

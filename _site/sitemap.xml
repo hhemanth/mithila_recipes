@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/cookies/2017/01/05/gingernut-cookies/</loc>
-<lastmod>2017-01-05T00:00:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/cakes/2017/01/06/lemon-cake/</loc>
-<lastmod>2017-01-06T00:00:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/chocolate/pedha/milkpowder/2017/12/24/chocolate-cupcakes/</loc>
+<loc>http://localhost:4000/sweets/2017/12/24/chocolate-pedha/</loc>
 <lastmod>2017-12-24T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sabji/2018/03/05/palak-paneer/</loc>
+<lastmod>2018-03-05T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/snacks/2018/03/05/sabudana-vada/</loc>
+<lastmod>2018-03-05T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/snacks/2018/03/06/balekayi-bajji/</loc>
+<lastmod>2018-03-06T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sweets/2018/03/06/cashew-barfi/</loc>
+<lastmod>2018-03-06T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

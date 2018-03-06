@@ -1,6 +1,6 @@
 ---
-date: 2017-01-05
-title: Gingernut Cookies
+date: 2018-03-05
+title: Palak Paneer
 categories:
   - Cookies
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
@@ -9,12 +9,22 @@ recipe:
   prep: 15 minutes
   cook: 15 minutes
   ingredients_markdown: |-
-    * 200 g butter
-    * 1 cup sugar
-    * 1 cup golden syrup
-    * 3 cups flour
-    * 1 tablespoon ground ginger
-    * 1 teaspoon baking soda
+    * Spinach or palak - one big bunch 
+    * Paneer - 200 gms
+    * Onion - 2
+    * Tomates -3
+    * Ginger Garlic paste
+    * Cashew nuts -10 to 15 
+    * Green chilly - 2 
+    * Coriander powder - 1 tbsp
+    * Red chilly powder - ½ tbsp 
+    * Turmeric powder -¼ tbsp
+    * Garam masala - 1 tbsp
+    * Curd - 3 tbsp
+    * Salt - according to your taste
+    * Oil - 2 tbsp 
+    * Cream for flavour and also taste 
+
   directions_markdown: |-
     1. Pre heat oven to 350°F.
     2. Cream the butter and the sugar.

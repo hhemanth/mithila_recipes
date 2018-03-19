@@ -3,7 +3,7 @@ date: 2018-03-11
 title: Paneer Pakoda
 categories:
   - Snacks
-featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/balekayi_bajji.jpg
+featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/paneer_pakoda.jpg
 recipe:
   servings: 60 cookies
   prep: 15 minutes

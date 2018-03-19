@@ -3,7 +3,7 @@ date: 2018-03-11
 title: Seven Cups
 categories:
   - Sweets
-featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/kaju_katli.png
+featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/seven_cups.jpg
 recipe:
   servings: 10 laddoos
   prep: 15 minutes

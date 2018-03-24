@@ -5,8 +5,8 @@ categories:
   - Sweets
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/kaju_katli.png
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
+  servings: 10 to 12
+  prep: 5 minutes
   cook: 15 minutes
   ingredients_markdown: |-
     * Cashew nuts(kaju) - 1 cup
@@ -17,17 +17,21 @@ recipe:
 
 
   directions_markdown: |-
-    1. Take a big bunch of spinach separate the leaves from stem and clean it using water with little amount of salt mixed in water as it helps to remove all the dirt from greens.
-    2. Take a vessel and keep water for boiling as soon as water starts to boil  immerse cleaned spinach leaves and let it boil for 5 minutes and switch off the stove and take out the blanched spinach and immerse it in cold water by this our spinach will not turn black after cooking.
-    3. In a pan add 1 tbsp of oil ,when the oil is hot add chopped onions,green chilles ,ginger and garlic .after the onions turn translucent add tomatoes and cook till tomatoes turn soft and mushy .
-    4. Soak cashew nuts in warm water for 30 minutes
-    5. Allow the mixture to cool and then grind it along with blanched spinach and soaked cashew nuts.
-    6. In the same pan add 1 tbsp of oil and when the oil is hot add add the grinded mixture and cook till it comes to one boil.
-    7. When the mixture is cooking cut paneer into cubes and soak it in warm water so that the paneer turns soft (you can also fry paneer cubes in ghee to give more rich taste)
-    8. When the mixture releases oil add salt, coriander powder ,red chilly powder ,turmeric powder and cook it for one more minute.
-    9. Now whisk the taken amount of curd and then add curd to the palak paneer mixture (keep the flame in sim while adding curd as it may curdle)
-    10. Now simmer the mixture for 8 to 10 mins without closing the lid of pan and at the end add garam masala and fresh cream and bring it to one boil before switching off the stove (lid of the pan should not be closed as spinach may loose its colour )
-    11. Now garnish palak paneer with cream on top and serve it hot any indian breads of your choice or even with rice it tastes delicious.
+    1. Choosing a good quality of kaju is very important as it enhances the taste of burfi 
+    2. Now grind 1 cup of kaju in a mixer to a coarse powder ( Dont grind it for a long time as kaju will start to release oil )
+    3. Sieve the kaju mixture so that when we add kaju to sugar syrup it will not form lumps 
+    4. In a deep broad pan add sugar and water ,keep the flame in high till the sugar dissolves and then simmer it till you get one string consistency.
+    5. As soon as the sugar syrup is ready keep the flame in sim and add the kaju powder and keep stirring so it ensures no lumps are formed.
+    6. After 5 mins when see the mixture is about to leave the pan add 1 tbsp to ghee to it,when you add the ghee the mixture becomes smooth and will leave the sides of the pan quickly.
+    7. Take the mixture in a plate greased with ghee and allow it to cool for sometime and then cut it into desired shapes and sizes.
+    8. Enjoy this super easy and tasty indian sweet
+    
+    **Tips:**
+    1. To get sugar syrup of single thread consistency take water exactly half the amount of sugar taken, this ensures that you get a perfect single thread sugar syrup in 5 mins
+    2. I have skipped cardamom powder here to maintain the original taste of kaju you can always do it according to your taste.
+    3. I have taken the kaju mixture directly on a greased plate and cut it ,you can always take the mixture dough and roll it as chapati using a rolling pin and then cut it.
+ 
+
 
 ---
 Popularly known as kaju katli it is a very delicious indian sweet which is made with minimum ingredients .it gets ready with 15 to 20 minutes and tastes delicious . it can made for any festivals, parties ,functions or even on any normal day to satisfy your taste buds .Here i have used 1 tbsp of ghee at the end but this can be skipped to make it a vegan recipe and ther won’t be any change in taste.

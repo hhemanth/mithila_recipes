@@ -5,8 +5,8 @@ categories:
   - Snacks
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/balekayi_bajji.jpg
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
+  servings: 15 to 16 bajjis (depending in the thickness of raw banana we have cut)
+  prep: 5 minutes
   cook: 15 minutes
   ingredients_markdown: |-
     * Balekayi (Raw Banana) -1

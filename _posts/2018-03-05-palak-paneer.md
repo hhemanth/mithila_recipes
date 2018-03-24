@@ -5,9 +5,9 @@ categories:
   - Sabji
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/palak_paneer_size.png
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 2 cups
+  prep: 15 minutes including cleaning and chopping of spinach
+  cook: 25 minutes
   ingredients_markdown: |-
     * Spinach or palak - one big bunch 
     * Paneer - 200 gms

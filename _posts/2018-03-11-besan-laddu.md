@@ -5,9 +5,9 @@ categories:
   - Sweets
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/besan_laddu.jpg
 recipe:
-  servings: 10 laddoos
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 15 to 20 laddoos
+  prep: 5 minutes
+  cook: 30 minutes
   ingredients_markdown: |-
     * Gram flour - 1 cup
     * Ghee - ½ cup

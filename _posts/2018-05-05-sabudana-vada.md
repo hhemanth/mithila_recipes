@@ -6,8 +6,8 @@ categories:
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/sabudana_vada.jpg
 recipe:
   servings: 12 pieces
-  prep: 4 hours 20 minutes
-  cook: 15 minutes
+  prep: 4 hours 20 minutes(including soaking of sabudana)
+  cook: 15 minutes(for each batch of vadas )
   ingredients_markdown: |-
     * Sabudana -1 cup
     * Boiled potatoes - 3

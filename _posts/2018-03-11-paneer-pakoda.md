@@ -5,9 +5,9 @@ categories:
   - Snacks
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/paneer_pakoda.jpg
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 10 pakodas
+  prep: 5 minutes
+  cook: 10 minutes
   ingredients_markdown: |-
     * Cottage cheese or paneer - 250 gm
     * Gram flour - 1 cup

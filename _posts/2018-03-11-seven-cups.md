@@ -5,9 +5,9 @@ categories:
   - Sweets
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/seven_cups.jpg
 recipe:
-  servings: 10 laddoos
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 10 burfi
+  prep: 10 minutes
+  cook: 45 minutes
   ingredients_markdown: |-
     * Gram flour - 1 cup
     * Ghee - 1 cup

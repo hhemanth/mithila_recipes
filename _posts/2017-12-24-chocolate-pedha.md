@@ -23,7 +23,7 @@ recipe:
 
     1. Take heavy bottom pan or a non stick pan and keep on a low flame.
     2. Add 1/2 tablespoon Ghee to the pan. As soon as Ghee starts melting, add 1/4 Cup Milk and Milk powder to the pan simultaneously.
-    3. Keep stirring for a minute. When milk and milk powder is mixed , add powdered sugar and keep stirring using a spatula.  
+    3. Keep stirring for a minute. When milk, milk powder and cocoa powder is mixed , add powdered sugar and keep stirring using a spatula.  
     4. After 5 minutes, the mixture forms a lump without skicking to the pan.
     5. At this time, add the rest 1/2 tablespoon ghee, cardamom powder and mix it. 
     6. At one point the mixture starts to completely leave the pan, then switch off the stove and the take the mixture on a greased plate

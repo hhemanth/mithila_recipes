@@ -1,6 +1,6 @@
 ---
 date: 2018-03-26
-title: Chatni Pudi
+title: Chutney Pudi
 categories:
   - Masala
 

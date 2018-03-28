@@ -12,8 +12,8 @@ disqus_shortname:
 logo: /siteicon.png
 description: Food blog from Mithila.
 author: Mithila
-  name: Mithila
-  email: mithilaa.12@gmail.com
+  name:
+  email:
   twitter: # twitter username without the @ symbol
 social:
   name: Treat Template

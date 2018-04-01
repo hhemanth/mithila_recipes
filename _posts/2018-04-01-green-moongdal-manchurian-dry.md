@@ -57,3 +57,8 @@ recipe:
 ---
 
 A slight twist to regular gobhi or vegetable manchurian using green moong dal..very easy to make party starter..a combination of indian and chinese cuisine. This recipe serves 2 people.
+
+Moong dal Manchurian balls.
+![Manchurian](https://s3.ap-south-1.amazonaws.com/mithila-recipes/moong_balls_small.jpg)
+Manchurian balls in Sauce
+![Manchurian](https://s3.ap-south-1.amazonaws.com/mithila-recipes/moong_balls_in_sauce_small.jpg)

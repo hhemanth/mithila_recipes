@@ -4,7 +4,7 @@
 title: Mithilaas, Food Blog, Veg Recipes
 url: "www.mithilaas.com"
 baseurl:
-google_analytics_key:
+google_analytics_key: "UA-116861602-1"
 newsletter_action: "//your-mailchimp-action-url.com"
 disqus_shortname:
 

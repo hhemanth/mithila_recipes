@@ -42,6 +42,9 @@ layout: default
 		<h2>More delicious recipes</h2>
 		<p>This one of the many fanastic recipes available on this blog</p>
 		<div class="button"><a href="/recipes">Check out more recipes</a></div>
+
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<div class="addthis_relatedposts_inline"></div>
 	</div>
 	{% if site.disqus_shortname and page.comments %}
 		<div id="disqus_thread"></div>
@@ -63,6 +66,7 @@ layout: default
 </article>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 <script type="text/javascript" src="/js/jquery.imgPin.min.js"></script>
 <script>
 	$(function() {
@@ -77,3 +81,6 @@ layout: default
 		});
 	});
 </script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5aca15f56da11f2c"></script>

@@ -5,8 +5,8 @@ title: Mithilaas, Food Blog, Veg Recipes
 url: "www.mithilaas.com"
 baseurl:
 google_analytics_key: "UA-116861602-1"
-newsletter_action: "//your-mailchimp-action-url.com"
-disqus_shortname:
+newsletter_action: "https://mithilaas.us18.list-manage.com/subscribe/post?u=107dd7d2b755aa0a3b2921cfc&amp;id=a1b7e87c50"
+disqus_shortname: "www-mithilaas-com"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png

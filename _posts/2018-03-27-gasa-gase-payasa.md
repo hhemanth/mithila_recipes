@@ -2,7 +2,7 @@
 date: 2018-03-27
 title: Gasa Gase Payasa
 categories:
-  - Sweet
+  - Sweets
 
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/gase_gase_payasa1.jpg
 recipe:

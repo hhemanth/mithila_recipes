@@ -2,7 +2,7 @@
 date: 2018-04-19
 title: Peas Pulao (Matar Pulao)
 categories:
-  - Subji
+  - Rice
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/Peas-Pulao_small.jpg
 recipe:
   servings: 2 People

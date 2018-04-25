@@ -6,8 +6,8 @@ categories:
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/Hirekaayi_tavve_small.jpg
 recipe:
   servings: 2 people
-  prep:
-  cook:
+  prep: 20 minutes
+  cook: 15 minutes
   ingredients_markdown: |-
     * Ridge gourd - 1
     * Toor dal - ½ cup

@@ -28,7 +28,7 @@ recipe:
     6. Now in a glass/porcelein vessel ( don’t use steel or plastic ) add raw mangoes, salt, turmeric, hing and grinded mixture and mix it.
     7. Now add cooled oil and mix it properly.
     8. Now transfer this mixture to a glass or procelain jar and allow it to marinate for 10 to 15 days or even more. Pickles gets tastier as it ages.
-    9. Raw mango pickles is ready. 
+    9. Raw mango pickles is ready. You can take small amounts from the jar, add mustard and hing tadka before serving.   
  
 
 ---

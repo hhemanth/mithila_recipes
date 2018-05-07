@@ -32,7 +32,7 @@ recipe:
  
 
 ---
-Raw mango pickles are a treasure of good health. They contain an acid which helps to ease digestion and control constipation. They are highly beneficial in treating scruvy, prevents dehydration, treats Gastro-Intestinal disorders and also liver disorders.
+Raw mangoes are a treasure of good health. They contain an acid which helps to ease digestion and control constipation. They are highly beneficial in treating scruvy, prevents dehydration, treats Gastro-Intestinal disorders and also liver disorders.
 
 A recent study shows that one unripe mango yields as much  Vitamin-C as 35 apples, 18 bananas, 9 lemons and 3 oranges.
 

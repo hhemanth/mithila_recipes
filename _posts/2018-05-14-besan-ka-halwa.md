@@ -2,7 +2,7 @@
 date: 2018-05-14
 title: Besan ka halwa (Kadlehittinida madida halwa or gram flour halwa)
 categories:
-  - Snacks
+  - Sweets
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/besan_halwa4_small.jpg
 recipe:
   servings: 3 cups

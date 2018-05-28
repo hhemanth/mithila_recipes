@@ -2,7 +2,7 @@
 date: 2018-05-02
 title: Muskmelon Kesar Lassi
 categories:
-  - Cooler
+  - Coolers
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/muskmelon_kesar_lassi2_small.jpg
 recipe:
   servings: 1 Glass

@@ -2,7 +2,7 @@
 date: 2018-04-27
 title: Carrot Halwa (Gajar Ka Halwa)
 categories:
-  - Sweet
+  - Sweets
 featured_image: https://s3.ap-south-1.amazonaws.com/mithila-recipes/Carrot_halva_small.jpg
 recipe:
   servings: 3 to 4 people
